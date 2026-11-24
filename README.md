@@ -1,3 +1,4 @@
+ HEAD
 # BarioniSociedade
 
 Site da Willian Barioni Sociedade de Advocacia.
@@ -132,3 +133,6 @@ O pacote contém somente os arquivos públicos autorizados e `.htaccess` com con
 Se mudar o domínio, atualize `config/site-config.json` e gere as páginas e o pacote novamente.
 
 O site está disponível localmente. Domínio, DNS, HTTPS e hospedagem são configurados no provedor; gerar o pacote não envia o site à internet.
+=======
+# AdvBarioni
+>>>>>>> 0107b5c565db66e290030a5378d989a8a3acdf5c
