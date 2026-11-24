@@ -1,0 +1,36 @@
+{
+  "portrait:willian-barioni": {
+    "source_hash": "f9a2e9bf587ec6090f7f17a3aeeaba1b87d5f97e9a560745bcd96655fa621155",
+    "outputs": {
+      "willian-barioni-360.webp": "b2cd0704085c3cd3175273f989f930bc4d63b10bb8945909027404fe1b1b78ee",
+      "willian-barioni-720.webp": "36e8433139521fd4786c1105b9ec1fa098f2b2835fb54ca4ffb0917ce40280c2"
+    }
+  },
+  "portrait:luiz-carlos-marconato-junior": {
+    "source_hash": "558868e3a0b4c02642f8e9847a8ec3f12c16a23e743c7a347387076902d54adf",
+    "outputs": {
+      "luiz-carlos-marconato-junior-360.webp": "e285c41ebd0012fe6146f9b52168e3f022ea4b2cb87d55b17c453a9960e48d61",
+      "luiz-carlos-marconato-junior-720.webp": "f3000a9c380f124ef1c26f40d4c944236f27e31957c4be1e879135338d31b307"
+    }
+  },
+  "portrait:daniella-souza": {
+    "source_hash": "cbfda6c6a65babb50207dcc32ba37f54992cb5429e499f3e0727466e690bb760",
+    "outputs": {
+      "daniella-souza-360.webp": "39c8416412bc19711279e875d2a944298681be58c4f8df0cbc349f0ac8e4552f",
+      "daniella-souza-720.webp": "1c305a7fde5fa2686976c51ad29aebf7aa1638eb4cf53f2d36f1ff28aabbe382"
+    }
+  },
+  "portrait:fernanda-camargo": {
+    "source_hash": "887387390145980e7587a6220abc6af4cb968bd09f0d47e7c059180e37d11a9e",
+    "outputs": {
+      "fernanda-camargo-360.webp": "25072c8eb2fdb4525d0e77b14d7a2952f497640cad98c0cd26dd6fa66cf7333c",
+      "fernanda-camargo-720.webp": "5b969b1949442badad59e36d69a14c04809aa3d546e1a8099c6a22d1ff7fcb9c"
+    }
+  },
+  "social": {
+    "source_hash": "35f95791f1a4e37b441e11acab51227ad77bdaa711fcac47de278063cf418844",
+    "outputs": {
+      "social-card.png": "fa21398b4ebddede1277d01eb9e15057ca8ff352059c7524690a38af7f0d5a67"
+    }
+  }
+}
